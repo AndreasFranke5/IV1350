@@ -21,8 +21,7 @@ class ControllerTest {
     @Test
     void beginSale() {
         boolean result = control.beginSale(3);
-        assertTrue(result, "startNewSale controller error"); // this can never happen because
-        // our startNewSale always returns true- the sale can't be tested for validity without using hashcodes
+        assertTrue(result, "startNewSale controller error");
     }
 
     @Test
