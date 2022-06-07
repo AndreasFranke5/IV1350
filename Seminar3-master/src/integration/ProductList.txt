@@ -1,0 +1,6 @@
+12.3#0.25#Clementine#01
+11.2#0.25#Apple#02
+20.6#0.25#Pineapple#03
+13.3#0.25#Banana#04
+25.9#0.25#Pack of grapes#05
+30.7#0.25#Strawberry#06
